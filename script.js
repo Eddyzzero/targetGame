@@ -6,7 +6,7 @@ let timeContainer = document.querySelector('.time');
 
 btn.onclick = function () {
     let score = 0;
-    let time = 1;
+    let time = 60;
     container.innerHTML = "";
 
 

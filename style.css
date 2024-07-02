@@ -44,7 +44,7 @@ html, body {
     border-radius: 20px;
     background-color: rgba(209, 201, 187, 0.1);
     backdrop-filter: blur(20px);
-    box-shadow: 0 0 5px rgba(0, 0,0, 0.2);
+    box-shadow: 0 0 20px rgba(0, 0,0, 0.2);
 }
 
 
